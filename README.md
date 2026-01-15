@@ -2,16 +2,20 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Will Zuo`
+- **CCID:** `zuo5`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+CMPUT_301_LAB_2_OOP_PRINCIPLES.pdf
+
+CMPUT_301_LAB_2_ANDROID_BASICS.pdf
+
+CMPUT_301_LAB_2_INSTRUCTIONS.pdf
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| Student Name | CCID     |
+|--------------|----------|
+| `N/A`        | `N/A`    |
+| `<Add more>` | `<CCID>` |
